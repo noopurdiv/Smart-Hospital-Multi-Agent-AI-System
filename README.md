@@ -28,7 +28,7 @@ We built SHMAS using a combination of AI techniques and tools that allowed for t
 - *LangGraph*: This was used to structure and orchestrate the workflows of our five agents, ensuring clear transitions and proper coordination.
 - *Groq APIs*: We integrated large language models (LLMs) via Groq to process data and support decision-making.
   - The *model_name="deepseek-r1-distill-llama-70b"* from Groq was utilized to enhance the decision-making capabilities of the system.
-- *Database Management: We used **PostgreSQL* to store and retrieve hospital data securely, ensuring that multiple agents could work with up-to-date and consistent information.
+- *Database Management*: We used *PostgreSQL* to store and retrieve hospital data securely, ensuring that multiple agents could work with up-to-date and consistent information.
 - *Real-Time Updates*: We built a dynamic dashboard to display live information on patient statuses, agent activities, and workflow progress.
 - *Priority Score Formula*: We designed and implemented an algorithm that assigns priority scores to patients based on vital signs, symptom severity, and other factors to ensure the right patients are treated first.
 
@@ -38,13 +38,13 @@ We built SHMAS using a combination of AI techniques and tools that allowed for t
   *Solution: We implemented **LangGraph* to ensure smooth coordination and transition between agents, allowing them to collaborate effectively while avoiding conflicts.
 
 - *Conflict Resolution*: High-demand situations led to resource contention, creating edge cases where multiple agents wanted to access the same resources.  
-  *Solution: We developed a sophisticated **priority scoring system* that factors in multiple variables like patient vitals, age, and symptom severity to prioritize patients appropriately during peak times.
+  *Solution*: We developed a sophisticated *priority scoring system* that factors in multiple variables like patient vitals, age, and symptom severity to prioritize patients appropriately during peak times.
 
 - *Real-Time Data Handling*: Ensuring real-time data updates while avoiding data inconsistency between multiple agents was a complex issue.  
-  *Solution: We utilized **transaction management* and *database triggers* to prevent race conditions and ensure consistent data across agents.
+  *Solution*: We utilized *transaction management* and *database triggers* to prevent race conditions and ensure consistent data across agents.
 
 - *LLM Integration*: Integrating LLMs within hospital protocols posed challenges in terms of balancing flexibility and deterministic processes.  
-  *Solution: We designed precise prompts and implemented **post-processing validation* to ensure that LLM outputs were accurate and aligned with the needs of hospital operations.
+  *Solution*: We designed precise prompts and implemented *post-processing validation* to ensure that LLM outputs were accurate and aligned with the needs of hospital operations.
 
 ## Accomplishments that we're proud of
 
@@ -60,7 +60,7 @@ Throughout this project, we gained insights into several key areas:
 
 - *AI Agents*: How to design and implement multiple AI agents that can operate autonomously while collaborating and resolving conflicts in real-time.
 - *Communication Between AI Agents*: We explored how agents can communicate effectively, sharing data and making decisions that align with the hospital’s priorities.
-- *LLM Integration: How to call and integrate large language models (LLMs) using APIs like **Groq* for data processing and decision-making.
+- *LLM Integration*: How to call and integrate large language models (LLMs) using APIs like *Groq* for data processing and decision-making.
 - *LangGraph*: We learned how LangGraph can help orchestrate and structure agent workflows, ensuring clear state transitions and coordinated agent activities.
 - *Hospital Intricacies*: We gained a deep understanding of the challenges hospitals face, such as resource management, patient prioritization, and workflow bottlenecks.
 
