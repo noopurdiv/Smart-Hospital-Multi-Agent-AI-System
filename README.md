@@ -69,4 +69,4 @@ In the fast-paced world of healthcare, even the smallest delays in hospital oper
 ---
 
 ## 👤 Contact
-**[Your Name]** | [LinkedIn](https://www.linkedin.com/in/noopurd/) | [Email](mailto:noopur.div188@gmail.com)
+**[Noopur Shekhar Divekar]** | [LinkedIn](https://www.linkedin.com/in/noopurd/) | [Email](mailto:noopur.div188@gmail.com)
