@@ -1,5 +1,5 @@
 # SHMAS: Smart Hospital Multi-Agent AI System
-🏆 **Winner of the Luddy Hackathon** ---
+🏆 **Second Winner of the Luddy Hackathon** ---
 
 ## 📌 Inspiration
 
