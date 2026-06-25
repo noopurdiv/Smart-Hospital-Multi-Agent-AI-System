@@ -12,8 +12,8 @@ In the fast-paced world of healthcare, even the smallest delays in hospital oper
 
 ## Project Links
 
-- **Product Demo:** [View on Devpost](https://devpost.com/software/shmas-smart-hospital-multi-agent-system)
-- **Repository:** [GitHub](https://github.com/noopurdiv/Smart-Hospital-Multi-Agent-AI-System)
+- **Our hackathon submission:** [View on Devpost](https://devpost.com/software/shmas-smart-hospital-multi-agent-system)
+- **Loom project workthrough:** [Loom Demo](https://www.loom.com/share/94308657c2a149d7b332ec1ba8814630)
 
 ---
 
