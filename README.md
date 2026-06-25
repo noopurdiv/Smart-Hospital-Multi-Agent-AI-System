@@ -40,8 +40,6 @@ SHMAS is an AI-driven system designed to automate and optimize hospital workflow
 
 LangGraph orchestrates the pipeline. The graph runs sequentially, but **Conflict Resolver branches** based on whether doctors and beds were successfully assigned:
 
-<img width="425" alt="SHMAS Agent Flow" src="https://github.com/user-attachments/assets/c78942af-192d-40a0-8d4b-a0078233a150" />
-
 ```mermaid
 flowchart TD
     A[Patient Admission] --> B[Mental Health Analyzer]
